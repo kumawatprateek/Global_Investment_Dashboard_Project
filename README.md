@@ -40,8 +40,13 @@ To run the Global Investment Dashboard locally, follow these steps:
 <div align="center">
     <img src="Demo_Img/a.jpg" alt="Home Screen" width="500">
 </div>
+
 <div align="center">
     <img src="Demo_Img/b.jpg" alt="Home Screen" width="500">
+</div>
+
+<div align="center">
+    <img src="Demo_Img/c.jpg" alt="Globle" width="500">
 </div>
 
 ## Usage
