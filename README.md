@@ -36,13 +36,16 @@ To run the Global Investment Dashboard locally, follow these steps:
    streamlit run app.py
    ```
 
+### Example GUI
+![Global Investment Dashboard Example]
+
 ## Usage
 - Open your web browser and navigate to `http://localhost:8501` to access the dashboard.
 - Use the horizontal menu to navigate between different sections: **Home**, **Global**, and **Thematic**.
 - Select a company from the sidebar to view relevant metrics and visualizations.
 
 ## Data Sources
-Ensure that your CSV file includes the following columns:
+The dashboard utilizes a CSV file (`dummy_sample.csv`) that contains investment data, including:
 - Company Name
 - Fund
 - Investment ($M)
