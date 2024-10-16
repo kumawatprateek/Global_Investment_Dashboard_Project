@@ -49,6 +49,10 @@ To run the Global Investment Dashboard locally, follow these steps:
     <img src="Demo_Img/c.jpg" alt="Globle" width="500">
 </div>
 
+<div align="center">
+    <img src="Demo_Img/d.jpg" alt="Globle" width="500">
+</div>
+
 ## Usage
 - Open your web browser and navigate to `http://localhost:8501` to access the dashboard.
 - Use the horizontal menu to navigate between different sections: **Home**, **Global**, and **Thematic**.
