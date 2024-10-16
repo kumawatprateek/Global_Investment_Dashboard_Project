@@ -33,7 +33,7 @@ To run the Global Investment Dashboard locally, follow these steps:
 
 4. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run Main_app.py
    ```
 
 ### Example GUI
